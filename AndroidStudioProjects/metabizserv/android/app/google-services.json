@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499409594228",
+    "project_id": "meta-academie",
+    "storage_bucket": "meta-academie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499409594228:android:1f04709a57c13c821cae21",
+        "android_client_info": {
+          "package_name": "com.example.metabizserv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcecPA-2VV0XGdC8hOCDgYqsMb1DxI4B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
